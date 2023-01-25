@@ -1,0 +1,25 @@
+body{
+    background-image: url("123.jpg");
+    background-size: cover;
+ }
+.box {
+ width: 500px;
+ background: transparent;
+ background-position: center;
+ padding: 30px;
+ transform: translate(130%, 70%);
+ box-shadow: 10px 15px 25px rgba(0, 0, 0, 2.5);
+ border-radius: 20px;
+}
+.inputbox input {
+ height: 20px;
+}
+.inputbox select {
+ height: 25px;
+ width: 100px;
+}
+button{
+ width:fit-content;
+ border-radius: 10px;
+ background-color: lightblue;
+}
